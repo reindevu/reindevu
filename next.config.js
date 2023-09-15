@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images: {
-        domains: ['thrnrhhl.storage.yandexcloud.net'],
+        domains: ['thrnrhhl.storage.yandexcloud.net', 'img.shields.io'],
     }
 }
 
