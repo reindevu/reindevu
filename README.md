@@ -7,21 +7,12 @@
       />
     </p>
 
-# Меня зовут Павел, я фронтенд-разработчик
+МЕНЯ ЗОВУТ ПАВЕЛ, Я — ФРОНТЕНД-РАЗРАБОТЧИК, НАЧАВШИЙ КАРЬЕРУ ПОСЛЕ ОБУЧЕНИЯ В КОЛЛЕДЖЕ ПО СПЕЦИАЛЬНОСТИ «РАЗРАБОТЧИК ВЕБ И МУЛЬТИМЕДИЙНЫХ ПРИЛОЖЕНИЙ». ИМЕЮ ОПЫТ СОЗДАНИЯ СИСТЕМ УЧЕТА, ИНТЕРНЕТ-МАГАЗИНОВ, ЛЕНДИНГОВ.
 
-## Опыт работы - 3 года коммерческой разработки
+ИСПОЛЬЗУЮ СОВРЕМЕННЫЕ ТЕХНОЛОГИИ: REACT, NEXT.JS, TAILWIND CSS, TYPESCRIPT, REDUX TOOLKIT, ZUSTAND. ГИБКО ПОДБИРАЮ ИНСТРУМЕНТЫ (NEXT.JS ИЛИ REACT + VITE) ДЛЯ СОЗДАНИЯ ЭФФЕКТИВНЫХ И МАСШТАБИРУЕМЫХ ВЕБ-ПРИЛОЖЕНИЙ.
 
-Работал как фронтенд-разработчик, специализирующийся на React, Javascript, Jquery, и быстро продвигался по карьерной лестнице от джуна до мидл уровня.
-- Разрабатывал и поддерживал фронтенд-часть веб-приложений, используя технологии React, Next.js и Redux Toolkit.
-- Работал в тесном взаимодействии с бэкенд-разработчиками для интеграции фронтенда и бэкенда.
-- Назначен тимлидом в команде из 9 человек, ответственным за координацию работы и развитие проектов
-- Проводил код-ревью, обеспечивал соблюдение стандартов кодирования и высокого качества кода
-- Брал на себя сложные задачи и работал над ними, если кто-то из членов команды не мог справиться или требовалось быстрое решение.
-- Общался с членами команды, помогая решать технические задачи и поддерживая их профессиональное развитие.
-- В основном занимался разработкой MES-систем и учетных систем
+РАБОТАЮ ПО МЕТОДОЛОГИЯМ SCRUM И KANBAN, ОБЕСПЕЧИВАЯ ПРОДУКТИВНОЕ ВЗАИМОДЕЙСТВИЕ С ДИЗАЙНЕРАМИ, БЭКЕНД-РАЗРАБОТЧИКАМИ И ДРУГИМИ СПЕЦИАЛИСТАМИ. СТРЕМЛЮСЬ К ПОСТОЯННОМУ РАЗВИТИЮ, ВНОСЯ ВКЛАД В УЛУЧШЕНИЕ БИЗНЕС-ПРОЦЕССОВ И ЭФФЕКТИВНОСТИ КОМАНДЫ.
 
-
-## Ключевые навыки:
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2300bfff.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-%23764abc.svg?&style=for-the-badge&logo=redux&logoColor=white)
@@ -41,8 +32,6 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![React-Hook-Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![React-Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-## Дополнительные навыки
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
