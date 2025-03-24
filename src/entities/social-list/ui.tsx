@@ -10,7 +10,7 @@ export const SocialList: FC = () => {
       </p>
 
       <div className="mx-auto mt-2 flex w-full items-center justify-center gap-2">
-        <Link href="https://github.com/thrnrhhl">
+        <Link href="https://github.com/reindevu">
           <Image src="/social/github.png" alt="Me" width="40" height="40" />
         </Link>
 
