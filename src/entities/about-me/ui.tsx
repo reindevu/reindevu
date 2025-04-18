@@ -12,7 +12,7 @@ export const AboutMe: FC = () => {
         className="shadow-2xl"
       />
 
-      <p className="whitespace-pre-line text-sm uppercase text-black">
+      <p className="whitespace-pre-line text-sm uppercase text-black dark:text-white">
         Я — фронтенд-разработчик, начавший карьеру после обучения в колледже по
         специальности «Разработчик веб и мультимедийных приложений». Имею опыт
         создания систем учета, интернет-магазинов, лендингов.

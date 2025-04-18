@@ -11,19 +11,23 @@ export const SocialList: FC = () => {
 
       <div className="mx-auto mt-2 flex w-full items-center justify-center gap-2">
         <Link href="https://github.com/reindevu">
-          <Image src="/social/github.png" alt="Me" width="40" height="40" />
+          <Image src="/social/github.png" alt="GitHub" width="40" height="40" />
         </Link>
 
         <Link href="https://hh.ru/resume/3c558fa1ff0c3a15480039ed1f7366624c547a">
-          <Image src="/social/hh.png" alt="Me" width="40" height="40" />
+          <Image src="/social/hh.png" alt="HH" width="40" height="40" />
         </Link>
 
         <Link href="https://set.ki/N8BhFXx">
-          <Image src="/social/setka.png" alt="Me" width="40" height="40" />
+          <Image src="/social/setka.png" alt="Setka" width="40" height="40" />
         </Link>
 
         <Link href="https://tenchat.ru/reindevu">
-          <Image src="/social/tenchat.webp" alt="Me" width="40" height="40" />
+          <Image src="/social/tenchat.webp" alt="Tenchat" width="40" height="40" />
+        </Link>
+
+        <Link href="https://t.me/reindevu">
+          <Image src="/social/telegram.png" alt="Telegram" width="40" height="40" />
         </Link>
       </div>
     </div>
