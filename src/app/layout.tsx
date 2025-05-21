@@ -82,6 +82,7 @@ export default function RootLayout({
         </noscript>
         {/* /Yandex.Metrika counter */}
       </head>
+      
       <body
         className={classNames(
           "bg-white dark:bg-black",

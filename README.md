@@ -95,4 +95,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-3390EB)](https://t.me/reindevu)
 [![Habr](https://img.shields.io/badge/Резюме%20Хабр-629FBC)](https://career.habr.com/reindevu)
 [![HH](https://img.shields.io/badge/Резюме%20HH-F82602)](https://hh.ru/resume/3c558fa1ff0c3a15480039ed1f7366624c547a)
-[![LinkedIn](https://img.shields.io/badge/Резюме%20LinkedIn-0B66C2)](https://www.linkedin.com/in/reindevu)
