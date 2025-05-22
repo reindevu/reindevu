@@ -12,7 +12,7 @@ export const ResumeAboutMe: FC = () => {
           alt="Me"
           width={Image2.width/4}
           height={Image2.height/4}
-          className="shadow-2xl w-full lg:w-auto h-[15.625rem] lg:h-auto object-cover"
+          className="shadow-2xl w-full lg:w-auto lg:h-auto object-cover"
         />
 
         <p className="text-xs whitespace-pre-line text-justify font-black uppercase text-black dark:text-white lg:text-lg">
