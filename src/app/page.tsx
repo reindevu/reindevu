@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   keywords:
     "фронтенд, разработчик, портфолио, Middle+, лидер команды, веб-приложения, middle+ frontend, мидл фронтенд",
 };
-//437a7b 74aa9b
+//437a7b 74aa9b #d8741f
 export default function Page() {
   return (
     <div className="container mx-auto px-4 py-5">
@@ -22,7 +22,7 @@ export default function Page() {
           viewBox="0 0 2151 389"
         >
           <path
-            fill="#d8741f"
+            fill="#c64e1e"
             d="M0 389V0h233v233H130.5v156zM1096 301v88h233v-87h-15L1282.22 0h-139.14L1111 301zM822 389V0h88v140.08h57V0h88v389h-88V267.564h-57V389zM1877 389h-233V0h192.17v206.672H1877zM274 389V0h233v218H362v83h145v88zM1370 389V0h233v218h-145v83h145v88zM2151 389V0h-233v218h145v83h-145v88zM548 389V0h88v208h57V0h88v389z"
           ></path>
         </svg>
