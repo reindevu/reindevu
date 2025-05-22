@@ -2,6 +2,7 @@ import Image from "next/image";
 import { FC } from "react";
 import Image1 from "./assets/image-1.png";
 import Image2 from "./assets/image-2.png";
+import Image3 from "./assets/image-3.png";
 
 export const ResumeAboutMe: FC = () => {
   return (
@@ -12,7 +13,15 @@ export const ResumeAboutMe: FC = () => {
           alt="Me"
           width={Image2.width/4}
           height={Image2.height/4}
-          className="shadow-2xl w-full lg:w-auto lg:h-auto object-cover"
+          className="shadow-2xl w-full lg:w-auto lg:h-auto object-cover hidden lg:block"
+        />
+
+        <Image
+          src={Image3.src}
+          alt="Me"
+          width={Image3.width}
+          height={Image3.height}
+          className="w-full object-cover block lg:hidden"
         />
 
         <p className="text-xs whitespace-pre-line text-justify font-black uppercase text-black dark:text-white lg:text-lg">
